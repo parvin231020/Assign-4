@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 80px;
+    background-color: #e63f3ffd;
+    text-align: center;
+
+}
+.banner{
+    height: 100px;
+    background-color:#a84d4d;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    
+}
+.article{
+    overflow: hidden;
+}
+.left{
+    width: 50%;
+    height: 300px;
+    background-color: #8a5b5b;
+    text-align: center;
+    float: left;
+
+}
+.right{
+    width: 50%;
+    height: 300px;
+    background-color: #fd6742;
+    text-align: center;
+    float:right;
+
+}
+    
+footer{
+    background-color: #6b3030;
+    height: 70px;
+    color:black;
+    text-align: center;
+}
